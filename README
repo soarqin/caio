@@ -1,0 +1,6 @@
+Codes All-In-One
+================
+
+This tool is written to merge all source codes of C++ projects into one, which
+may increased speed of compilation and get better inline optimizations w/o
+lto plugins from gcc or LTCG from VC.
